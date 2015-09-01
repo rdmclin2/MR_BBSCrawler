@@ -1,5 +1,5 @@
 
-> 前面我们实现了[Java爬虫爬取小百合BBS]()的单机版本，现在我们将其改造成mapreduce版本
+> 前面我们实现了[Java爬虫爬取小百合BBS](http://mclspace.com/2015/08/17/java-crawler-bbs-note/)的单机版本，现在我们将其改造成mapreduce版本
 
 <!-- more -->
 
